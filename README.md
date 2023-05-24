@@ -2,7 +2,7 @@
 
 
 ## Instrucciones de funcionamiento
-##### Nota:
+###### Nota:
 Se puede descargar el repositorio para poder trabajar con el mismo.
 
 #### para poder utilizar el modelo de entramiento SAMi, se ha agregado el siguiente apartado.
