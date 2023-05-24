@@ -1,4 +1,4 @@
-# Sami
+# SAMi
 
 ## Instrucciones de funcionamiento
 
