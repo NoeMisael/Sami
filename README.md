@@ -12,7 +12,7 @@
 #### Enlace del funcionamiento
 ##### Se anexa enlace del funcionamiento del modelo SAMi alojado en Youtube:
 
-[Funcionamieto de Sami](https://www.youtube.com/watch?v=26n6SWY3jUc)
+[Funcionamiento de Sami](https://www.youtube.com/watch?v=26n6SWY3jUc)
 
 #### primeramente se establece el entrenamiento del mismo.
 
