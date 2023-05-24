@@ -3,6 +3,11 @@
 ## Instrucciones de funcionamiento
 
 #### para poder utilizar el Sistema sami, se ha agregado el siguiente apartado.
+ 
+### Requisitos
+#### Los requisitos para poder correr el sistema de Sami en el equipo son
+<img src="Media/requisitos.jpeg">
+
 
 #### primeramente se establece el entrenamiento del mismo.
 
@@ -60,8 +65,6 @@ pred2= Predictions(path='trainedModel/emotion.h5',file='noefeliz.wav')
 pred3= Predictions(path='trainedModel/emotion.h5',file='maria2.wav')
 ```
 
-##### Podemos escuchar el audio de prueba con el que estuvimos trabajando
-![AudioFile](https://www.youtube.com/watch?v=LmfMR22zuwU)
 ##### Aqui podremos visualizar los datos con los que el modelo fue entrenado
 
 <img src="Media/trainedModel.jpeg">
