@@ -2,7 +2,7 @@
 
 ## Instrucciones de funcionamiento
 
-#### para poder utilizar el Sistema sami, se ha agregado el siguiente apartado.
+#### para poder utilizar el modelo de entramiento SAMi, se ha agregado el siguiente apartado.
  
 ### Requisitos
 #### Los requisitos para poder correr el sistema de Sami en el equipo son
