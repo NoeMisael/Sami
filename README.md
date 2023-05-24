@@ -187,7 +187,7 @@ print(completion.choices[0].text)
 ##### Modelo entrenado
 
 ##### El modelo entrenado para estas preubas se encuentra en la ruta de 
-![emotion.h5](./trainedModel/emotion.h5)
+[emotion.h5](./trainedModel/emotion.h5)
 
 ##### El dataset utilizado para el entreamiento es fue el de [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad) alojado en Kaggle.com
 
