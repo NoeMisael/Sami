@@ -1,6 +1,6 @@
 # Sami
 
-## Instruciones de funcionamiento
+## Instrucciones de funcionamiento
 
 #### para poder utilizar el Sistema sami, se ha agregado el siguiente apartado.
 
@@ -63,7 +63,7 @@ pred3= Predictions(path='trainedModel/emotion.h5',file='maria2.wav')
 ##### Podemos escuchar el audio de prueba con el que estuvimos trabajando
 
 <audio controls="controls">
- <source src="Media/cancion.mp3"></source>
+ <source src="https://www.youtube.com/watch?v=WxNc1WPFIEU"></source>
  </audio>
 
 
