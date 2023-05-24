@@ -61,8 +61,11 @@ pred3= Predictions(path='trainedModel/emotion.h5',file='maria2.wav')
 ```
 
 ##### Podemos escuchar el audio de prueba con el que estuvimos trabajando
-![](AudioPrueba/maria2.wav)
 
+<audio controls>
+  <source src="Media/cancion.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ##### Aqui podremos visualizar los datos con los que el modelo fue entrenado
 
